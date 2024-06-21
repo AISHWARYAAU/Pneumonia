@@ -1,6 +1,0 @@
-streamlit
-opencv-python
-numpy
-tensorflow
-requests
-scikit-learn==1.2.2
